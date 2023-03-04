@@ -1,5 +1,5 @@
 ### Personal Data🐰
-# Hi, I'm LEONI (https://https://www.instagram.com/lekleoni/)
+# Hi, I'm [LEONI] (https://https://www.instagram.com/lekleoni/)
 ## About me:
 - 🔭 I’m currently learning at [Universitas Multi Data Palembang](https://mdp.ac.id/)
 - 🌱 I’m currently learning Python, html and Javascript
